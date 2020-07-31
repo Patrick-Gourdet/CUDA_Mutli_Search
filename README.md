@@ -10,5 +10,6 @@ The GPU is underutilized in everyday applications, such as searching a Database,
 Disclaimer, I do say the N^x element's lightly, but it does have limitations, namely the amount of memory a GPU has to its disposal. To reiterate, searching a large amount of data in O(1) is possible and that without a HashTable.
 
 # How it works 
-Below we see a depiction of how we access a memory location in CUDA. The memory location has the data stored in which we are interested in. We could use CUDA and its memory access method to locate and return the data or the lack thereof in correspondence to an attribute.
+Below we see a depiction of how we access a memory location in CUDA. Stating the obvious the memory location could or could not contain the information we are interested in. We could use CUDA and its memory access method to locate and return the data or the lack thereof in correspondence to an attribute in much shorter execution times. The decrease in execution time means energy savings, means savings for companies, a pay raise for the Devs LOL, and an overall smaller carbon footprint for the world. Its no revolution, but every bit counts. 
+
 <img src="https://fedigital.org/wp-content/uploads/2020/07/NVIDIA.png">
